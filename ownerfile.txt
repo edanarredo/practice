@@ -1,1 +1,3 @@
 this was written by left window owner
+
+I added a change to ownerfile from right terminal
